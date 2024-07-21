@@ -1,7 +1,3 @@
-Sure! Here's a GitHub README for the `js-platformer` repository:
-
----
-
 # JS Platformer
 
 Welcome to the JS Platformer project! This repository contains a simple 2D platformer game built using JavaScript, HTML5, and CSS. The game demonstrates basic concepts of game development, such as character movement, collision detection, and level design.
